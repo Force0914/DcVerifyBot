@@ -1,0 +1,17 @@
+{
+  "name": "02bot",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "install": "mkdir guilds"
+  },
+  "keywords": [],
+  "author": "Force0914",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  }
+}
